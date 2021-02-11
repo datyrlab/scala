@@ -24,7 +24,7 @@
 #       will look for any file with extension .xml
 #       ensure the xml file contains no more than one item
 
-# to the run the script
+# to run the script
 # bash /your/path.../maven/project.sh "<mvn command to create a project>"
 
 # https://twitter.com/datyrlab
