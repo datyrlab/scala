@@ -1,0 +1,9 @@
+<!-- https://mvnrepository.com/artifact/com.lihaoyi/os-lib -->
+<dependency>
+    <groupId>com.lihaoyi</groupId>
+    <artifactId>os-lib_2.12</artifactId>
+    <version>0.7.2</version>
+</dependency>
+
+
+

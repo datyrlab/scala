@@ -1,0 +1,7 @@
+<!-- https://mvnrepository.com/artifact/com.lihaoyi/upickle -->
+<dependency>
+    <groupId>com.lihaoyi</groupId>
+    <artifactId>upickle_2.12</artifactId>
+    <version>1.2.3</version>
+</dependency>
+
