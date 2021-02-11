@@ -1,7 +1,22 @@
 #! /bin/bash
 
 ######################################
-https://youtu.be/jguADLTaWB0
+# Scala - Maven create a Scala project archetype
+# https://youtu.be/jguADLTaWB0
+# 0:00 - check version to verify Maven is installed
+# 1:39 - choose a location for you projects (can be anywhere)
+# 3:32 - terminal mvn command to create a Scala project archetype
+# 16:36 - terminal tree command to check archetype directory and file structure of newly created project
+# 20:33 - pom.xml file overview
+# 23:49 - explore the Maven .m2 repository directory
+# 26:42 - access the Maven scala console
+# 31:19 - to build jar files then add the Maven Assembly Plugin to the pom.xml (includes config updates like path for mainClass)
+# 40:32 - compile Scala (hello world default app) and build a jar file
+# 43:34 - various ways to run build, Scala console or jar file (as well as inclusion of command line arguments)
+# 51:09 - here I walk you through an automated bash script I've written that can create any archetype project, custom update a pom.xml file and add any custom resource directories
+
+# Scala - Install Apache Maven on Linux, Ubuntu/ Debian
+# https://youtu.be/A5kRljCASW0
 
 # how to this script works
 # 1. will create a project 
